@@ -1,1 +1,1 @@
-#This repo contains String Ques and on Leetcode
+#This repo contains my solution for String Ques on Leetcode
