@@ -1,1 +1,1 @@
-#This repo contains String Ques and code for Programming skill Badge on Leetcode
+#This repo contains my solution for String Ques on Leetcode
